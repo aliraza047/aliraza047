@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">A passionate Mern Stack Dev from Pakistan</h3>
+<h3 align="center">I'm a full-stack web developer who love to solve problems with the help of web technologies and have a skillset of emerging open source technologies like: React JS, Node JS, Express JS, Mongodb, Prisma, Firebase, Redux &Toolkit & RTK, Git and Github, React Native, Stripe, Map Apis, Jest, Socket.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza047&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza047" /> </p>
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ali-raza-1b26171b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-raza-1b26171b0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
