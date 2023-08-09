@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Zoom-Room**
-
 - 💬 Ask me about **Reat JS, Node JS**
 
 - 📫 How to reach me **munirraza0047@gmail.com**
