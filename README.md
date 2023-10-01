@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">I'm a Full Stack Web developer who loves to solve problems with the help of web technologies and have a skillset of emerging open source technologies like React JS, Node JS, Express JS, Mongodb, Prisma, Firebase, Redux & Toolkit & RTK Query, Git and Github, React Native, Stripe, Map Apis, Jest, Socket.</h3>
+<h3 align="center">I'm a Full Stack Web developer who loves to solve problems with the help of web technologies and have a skillset of emerging open source technologies like React JS, Node JS, Express JS, Mongodb, Prisma, Firebase, Redux & Toolkit & RTK Query, Git and Github, React Native, Stripe API, Map Apis, Jest, Socket.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliraza047&label=Profile%20views&color=0e75b6&style=flat" alt="aliraza047" /> </p>
 
